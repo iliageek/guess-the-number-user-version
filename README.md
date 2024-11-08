@@ -30,10 +30,28 @@ Then you choose: 84
 ....................
 
 And Nowwww!!! You winnn!
+
+....................
+
+What is different between "user-version" & "pc-version":
+
+user-version:
+PC choose a randomly number and you(user), should guess it.
+
+pc-version:
+You(User) should Choose a number then PC guess it & you should help PC to find it.
+
+....................
+
+
 You can play this with your family
+
 
 or you can make a graphical app for this program to be better!
 And I will be happy if you send me "Pull Request" after make better my program
+
+....................
+
 
 Thanks!
 Bye!
